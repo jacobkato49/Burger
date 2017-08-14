@@ -16,6 +16,8 @@ app.use(bodyParser.urlencoded({
 //override with POST method
 app.use(methodOverride("_method"))
 var exphbs = require("express-handlebars");
+
+//find documentation
 app.engine("handlebars", exphbs({
   defaultLayout: "main",
 }));
