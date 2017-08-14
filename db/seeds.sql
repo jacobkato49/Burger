@@ -1,0 +1,10 @@
+INSERT INTO burgers(burgers_name) VALUES ("Magic Mike");
+INSERT INTO burgers(burgers_name) VALUES ("Vegan Time");
+INSERT INTO burgers(burgers_name) VALUES ("Wholesome Harry");
+INSERT INTO burgers(burgers_name) VALUES ("In-n-out Style");
+INSERT INTO burgers(burgers_name) VALUES ("Western Bacon Cheeseburger");
+INSERT INTO burgers(burgers_name) VALUES ("ONLY BACON");
+INSERT INTO burgers(burgers_name) VALUES ("Sirloin Burger");
+INSERT INTO burgers(burgers_name) VALUES ("FAT SAL");
+INSERT INTO burgers(burgers_name) VALUES ("Green Chile Combo");
+INSERT INTO burgers(burgers_name) VALUES ("Old Fashioned");
